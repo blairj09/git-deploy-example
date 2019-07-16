@@ -425,7 +425,7 @@
         "Author": "David B. Dahl [aut],\n  David Scott [aut, cre],\n  Charles Roosen [aut],\n  Arni Magnusson [aut],\n  Jonathan Swinton [aut],\n  Ajay Shah [ctb],\n  Arne Henningsen [ctb],\n  Benno Puetz [ctb],\n  Bernhard Pfaff [ctb],\n  Claudio Agostinelli [ctb],\n  Claudius Loehnert [ctb],\n  David Mitchell [ctb],\n  David Whiting [ctb],\n  Fernando da Rosa [ctb],\n  Guido Gay [ctb],\n  Guido Schulz [ctb],\n  Ian Fellows [ctb],\n  Jeff Laake [ctb],\n  John Walker [ctb],\n  Jun Yan [ctb],\n  Liviu Andronic [ctb],\n  Markus Loecher [ctb],\n  Martin Gubri [ctb],\n  Matthieu Stigler [ctb],\n  Robert Castelo [ctb],\n  Seth Falcon [ctb],\n  Stefan Edwards [ctb],\n  Sven Garbade [ctb],\n  Uwe Ligges [ctb]",
         "Date/Publication": "2019-04-21 12:20:03 UTC",
         "Encoding": "UTF-8",
-        "Built": "R 3.6.0; ; 2019-06-14 17:51:32 UTC; unix"
+        "Built": "R 3.6.0; ; 2019-07-16 13:47:06 UTC; unix"
       }
     }
   },
@@ -479,7 +479,7 @@
       "checksum": "03d585f4502854c190829818cc4e6c39"
     },
     "packrat/desc/xtable": {
-      "checksum": "a273ce77dfbc5bb8e829fc79ebfe5e56"
+      "checksum": "b32e10e380bb81ef595012ca893c887c"
     },
     "packrat/packrat.lock": {
       "checksum": "3407a23e721441ecc37cc3b4b90e57e0"
