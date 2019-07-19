@@ -11,8 +11,8 @@
   },
   "packages": {
     "BH": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "BH",
         "Type": "Package",
@@ -32,8 +32,8 @@
       }
     },
     "R6": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "R6",
         "Title": "Encapsulated Classes with Reference Semantics",
@@ -51,14 +51,14 @@
         "Packaged": "2019-02-14 18:34:54 UTC; winston",
         "Author": "Winston Chang [aut, cre]",
         "Maintainer": "Winston Chang <winston@stdout.org>",
-        "Repository": "RSPM",
+        "Repository": "CRAN",
         "Date/Publication": "2019-02-14 19:42:14 UTC",
-        "Built": "R 3.6.0; ; 2019-06-14 17:51:35 UTC; unix"
+        "Built": "R 3.6.0; ; 2019-07-02 15:17:58 UTC; unix"
       }
     },
     "Rcpp": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "Rcpp",
         "Title": "Seamless R and C++ Integration",
@@ -85,8 +85,8 @@
       }
     },
     "crayon": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "crayon",
         "Title": "Colored Terminal Output",
@@ -106,14 +106,14 @@
         "Packaged": "2017-09-15 18:14:04 UTC; gaborcsardi",
         "Author": "Gábor Csárdi [aut, cre],\n  Brodie Gaslam [ctb]",
         "Maintainer": "Gábor Csárdi <csardi.gabor@gmail.com>",
-        "Repository": "RSPM",
+        "Repository": "CRAN",
         "Date/Publication": "2017-09-16 19:49:46 UTC",
-        "Built": "R 3.6.0; ; 2019-06-14 17:51:40 UTC; unix"
+        "Built": "R 3.6.0; ; 2019-07-02 15:18:00 UTC; unix"
       }
     },
     "digest": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "digest",
         "Author": "Dirk Eddelbuettel <edd@debian.org> with contributions \n by Antoine Lucas, Jarek Tuszynski, Henrik Bengtsson, Simon Urbanek,\n Mario Frasca, Bryan Lewis, Murray Stokely, Hannes Muehleisen,\n Duncan Murdoch, Jim Hester, Wush Wu, Qiang Kou, Thierry Onkelinx, \n Michel Lang, Viliam Simko, Kurt Hornik, Radford Neal, and Kendon Bell.",
@@ -137,8 +137,8 @@
       }
     },
     "htmltools": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "htmltools",
         "Type": "Package",
@@ -165,8 +165,8 @@
       }
     },
     "httpuv": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "httpuv",
         "Type": "Package",
@@ -194,8 +194,8 @@
       }
     },
     "jsonlite": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "jsonlite",
         "Version": "1.6",
@@ -218,8 +218,8 @@
       }
     },
     "later": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "later",
         "Type": "Package",
@@ -245,8 +245,8 @@
       }
     },
     "magrittr": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "magrittr",
         "Type": "Package",
@@ -267,8 +267,8 @@
       }
     },
     "mime": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "mime",
         "Type": "Package",
@@ -293,8 +293,8 @@
       }
     },
     "promises": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "promises",
         "Type": "Package",
@@ -322,8 +322,8 @@
       }
     },
     "rlang": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "rlang",
         "Version": "0.4.0",
@@ -350,8 +350,8 @@
       }
     },
     "shiny": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "shiny",
         "Type": "Package",
@@ -378,8 +378,8 @@
       }
     },
     "sourcetools": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "sourcetools",
         "Type": "Package",
@@ -403,8 +403,8 @@
       }
     },
     "xtable": {
-      "Source": "RSPM",
-      "Repository": null,
+      "Source": "CRAN",
+      "Repository": "http://demo.rstudiopm.com/cran/latest/",
       "description": {
         "Package": "xtable",
         "Version": "1.8-4",
@@ -431,13 +431,13 @@
   },
   "files": {
     "app.R": {
-      "checksum": "d5df34f0197ab88a377a2a3cb7d16110"
+      "checksum": "c602f0c3d262504501d41eb20688e08c"
     },
     "packrat/desc/BH": {
       "checksum": "3e014535e381e981a61f73a5b6ced46a"
     },
     "packrat/desc/crayon": {
-      "checksum": "03b20bc47889f96ed3355155946966b0"
+      "checksum": "c89977daca81a1fee232b690a1806618"
     },
     "packrat/desc/digest": {
       "checksum": "bfd9599904e523c3ed6e50671939b1a4"
@@ -464,7 +464,7 @@
       "checksum": "182729753301e376de9a359ca6d2302b"
     },
     "packrat/desc/R6": {
-      "checksum": "dead6ec7b62ef2f13ee6eaf26150ff95"
+      "checksum": "3b2a0c8923179b8e4d553a18b1d3aed8"
     },
     "packrat/desc/Rcpp": {
       "checksum": "a08cbc6aacc50eda1e0695a765033f3a"
@@ -482,7 +482,7 @@
       "checksum": "b32e10e380bb81ef595012ca893c887c"
     },
     "packrat/packrat.lock": {
-      "checksum": "31cb36d479b9c6b42cbd8cf41eb0d36b"
+      "checksum": "4a179bced972fa75dbc61d6382983d93"
     }
   },
   "users": null
