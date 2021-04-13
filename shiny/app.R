@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("New and improved Foo version"),
+    titlePanel("Git Deploy"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
